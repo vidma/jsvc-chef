@@ -1,6 +1,8 @@
 jsvc
 ====
 
+Master branch: [![Build Status](https://travis-ci.org/vidma/jsvc-chef.png?branch=master)](https://travis-ci.org/jrobertfox/chef-broiler-platter)
+
 a chef cookbook to install jsvc and commons-daemon
 
 ## Overview ##
